@@ -31,7 +31,7 @@ nav li{
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 100px;
+    padding: 50px 100px;
 }
 .btn-primary{
     color: aliceblue;
